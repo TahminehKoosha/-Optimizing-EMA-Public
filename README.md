@@ -1,4 +1,4 @@
-# Depressive Symptoms Temporal Dynamics Analysis
+# Optimizing EMA Sampling Rates
 
 This project explores the temporal dynamics of depressive symptoms using Ecological Momentary Assessment (EMA) data. Through Power Spectrum Density (PSD) analysis and upsampling techniques, we aim to uncover the dominant frequencies of symptom fluctuations and understand their periodicity.
 
